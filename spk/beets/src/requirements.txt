@@ -21,7 +21,7 @@ pylast==1.7.0
 python-mpd2==0.5.5
 #PyYAML==3.12
 # For most API dependant plugins
-requests==2.13.0
+requests==2.31.0
 requests-oauthlib==0.7.0
 #six==1.10.0
 Unidecode==0.4.20
