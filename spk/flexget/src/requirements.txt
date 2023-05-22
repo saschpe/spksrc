@@ -37,7 +37,7 @@ python-dateutil==2.6.0
 pytz==2016.10
 #PyYAML==3.12
 rebulk==0.8.2
-requests==2.13.0
+requests==2.31.0
 rpyc==3.3.0
 #six==1.10.0
 #SQLAlchemy==1.1.4
